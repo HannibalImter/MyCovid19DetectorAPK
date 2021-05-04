@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid-19 Diagnosis</string>
+    <string name="linkToSite"> <a href="https://www.facebook.com/The.LY.MIGOS.AMBASSADOR">by Hannibal Emter</a> </string>
+    <string name="text1">Welcome to the Covid19 diagnosis App! </string>
+    <string name="bu1">Start diagnosis</string>
+    <string name="moreInfo">For more Covid19 info and prevention tips </string>
+    <string name="linkToSite2">  <a href="https://covid19.who.int"> pleas click here!</a> </string>
+    <string name="cs50">Harvard/edu/CS50/FinalProject</string>
+    <string name="gotomain">Return Main Page</string>
+
+
+
+
+</resources>
